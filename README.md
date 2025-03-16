@@ -1,2 +1,2 @@
 # javascriptProject
-its a javascript project for the  git and github class.
+its a javascript project for the  git and github class...
